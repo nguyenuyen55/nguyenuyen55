@@ -3,8 +3,8 @@
 
 **nguyenuyen55/nguyenuyen55** 
 
-🌱 I’m currently learning .NET Core and ASP.NET MVC.
-👯 I’m looking to collaborate on building internal tools, especially booking or management systems.
+--🌱 I’m currently learning .NET Core and ASP.NET MVC.
+--👯 I’m looking to collaborate on building internal tools, especially booking or management systems.
 🤔 I’m looking for help with optimizing database queries and implementing advanced authentication features.
 📫 How to reach me: nguyenuyen552000@gmail.com
 😄 Pronouns: She/Her
